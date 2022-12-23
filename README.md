@@ -14,4 +14,4 @@ Check FactGen gradio app at HuggingFace Space <a href = "https://huggingface.co/
 
 # Demo
 
-https://user-images.githubusercontent.com/12198101/208966028-1d7d7f85-2be3-4c64-9478-91ea6c1c49ca.mp4
+https://user-images.githubusercontent.com/12198101/209322406-f34e967b-85ee-4849-b1a6-4b65fa1e5d66.mp4
